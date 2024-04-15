@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on help others 
 - 📫 How to reach me via whatsapp
 - 😄 Pronouns: SHARK
-- ⚡ Fun fact: I'm new to this script thing
+- ⚡ Fun fact: I'm new to this script
 
 <!---
 Sharkzim2/Sharkzim2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
