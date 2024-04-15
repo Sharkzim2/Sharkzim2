@@ -2,8 +2,8 @@
 - 👀 I’m interested in good scripts and browsers too 
 - 🌱 I’m currently learning using the script 
 - 💞️ I’m looking to collaborate on help others 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me via whatsapp
+- 😄 Pronouns: SHARK
 - ⚡ Fun fact: ...
 
 <!---
